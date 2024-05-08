@@ -13,15 +13,19 @@ where, Rnet = Net radiation absorbed by the leaf, H = Sensible heat flux, LE = L
 ## Constant Assumption for the Model:
 
 # Constants
-ML = 2  # Leaf mass per unit projected surface area (g/m^2)
-Cl = 4197  # Leaf specific heat capacity (J/kg*K)
-ALBEDO = 0.2
-STEFB = 5.67e-8  # Stefan-Boltzmann constant (W/m^2*K^4)
-EMISS = 0.75  # Long-wave emissivity of atmosphere
-BOWEN = 0.5  # Bowen Ratio
-TAIR =  298.15 # Air temperature (K)
-DELT = 15 * 60  # Time step (s)
-TSTOP = 24 * 3600  # Total simulation time (s)
-TRANSM = 0.8  # Example value for transmission coefficient
-M = 0.5  # Example value for M
-SINMET = 0.9  # Example value for SINMET
+1. ML = 2  # Leaf mass per unit projected surface area (g/m^2)
+2. Cl = 4197  # Leaf specific heat capacity (J/kg*K)
+3. ALBEDO = 0.2
+4. STEFB = 5.67e-8  # Stefan-Boltzmann constant (W/m^2*K^4)
+5. EMISS = 0.75  # Long-wave emissivity of atmosphere
+6. BOWEN = 0.5  # Bowen Ratio
+7. TAIR =  298.15 # Air temperature (K)
+8. DELT = 15 * 60  # Time step (s)
+9. TSTOP = 24 * 3600  # Total simulation time (s)
+10. TRANSM = 0.8  # Example value for transmission coefficient
+11. M = 0.5  # Example value for M
+12. SINMET = 0.9  # Example value for SINMET
+
+
+
+
