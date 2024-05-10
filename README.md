@@ -15,7 +15,7 @@ where, Rnet = Net radiation absorbed by the leaf, H = Sensible heat flux, LE = L
 2. Cl = 4197  # Leaf specific heat capacity (J/kg*K)
 3. ALBEDO = 0.2
 4. STEFB = 5.67e-8  # Stefan-Boltzmann constant (W/m^2*K^4)
-5. EMISS = 0.75  # Long-wave emissivity of atmosphere
+5. EMISS = 0.95  # Long-wave emissivity of atmosphere
 6. BOWEN = 0.5  # Bowen Ratio
 
 ## Model Overview:
