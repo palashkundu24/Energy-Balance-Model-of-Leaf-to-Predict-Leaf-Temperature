@@ -3,7 +3,7 @@ This repository contains files and code for the energy balance model of leaf to 
 
 
 ## Leaf Energy Balance: 
-The energy balance model allows an estimation of energy loss by transpiration, which is dependent on the gradient of water vapor from the leaf to the atmosphere and the total conductance to water vapor (gtw, the ease with which water vapor diffuses through stomatal pores and the boundary layer).
+The energy balance model allows an estimation of energy loss by transpiration, which is dependent on the gradient of water vapor from the leaf to the atmosphere and the total conductance to water vapor ( the ease with which water vapor diffuses through stomatal pores and the boundary layer).
 
 ## First we assume that the leaf is not in contact with the ground. In that case, soil conduction will be zero. Then the surface energy balance for the leaf is expressed as follows:
  Rnet = H+ LE + S 
